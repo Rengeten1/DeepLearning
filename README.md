@@ -25,3 +25,7 @@ if using GPU then after running above command run this:
 ```bash
 pip install tensorflow[and-cuda]
 ```
+
+## Data
+
+https://www.kaggle.com/datasets/ryanholbrook/dl-course-data
