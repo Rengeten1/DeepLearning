@@ -4,12 +4,12 @@ A tiny, hands-on collection of Jupyter Notebooks covering basic deep learning co
 
 Basics
 ---
-- [Intro to neuron](/notebooks/single_neuron.ipynb)
-- [Intro to binary classification](/notebooks/binary_classification.ipynb)
-- [deep neural networks](/notebooks/deep_neural_network.ipynb)
-- [stohastic gradient descent](/notebooks/stohastic_gradient_descent.ipynb)
-- [dropout and batch normalization](/notebooks/dropout_batch_normalization.ipynb)
-- [overfitting and underfitting](/notebooks/overfitting_underfitting.ipynb)
+- [Intro to neuron](/basics/single_neuron.ipynb)
+- [Intro to binary classification](/basics/binary_classification.ipynb)
+- [deep neural networks](/basics/deep_neural_network.ipynb)
+- [stohastic gradient descent](/basics/stohastic_gradient_descent.ipynb)
+- [dropout and batch normalization](/basics/dropout_batch_normalization.ipynb)
+- [overfitting and underfitting](/basics/overfitting_underfitting.ipynb)
 ---
 
 Analysis
